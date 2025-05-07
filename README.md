@@ -58,6 +58,6 @@
 ## Differential Methylation Regions (DMRs) Analysis
 ![DMRs](img/differential_analysis.png)
 
-
+*Дальнейший анализ приведен в файле WGBS_analysis.pdf
 
 
