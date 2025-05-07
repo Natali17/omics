@@ -53,7 +53,7 @@
 ![Analysis Workflow](img/workflow.png)
 
 ## Analysis Pipeline
-![Pipeline](pipeline.png)
+![Pipeline](img/pipeline.png)
 
 ## Differential Methylation Regions (DMRs) Analysis
 ![DMRs](img/differential_analysis.png)
