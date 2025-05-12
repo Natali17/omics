@@ -55,6 +55,7 @@
 ## Analysis Pipeline
 ![Pipeline](img/pipeline.png)
 
-*Дальнейший анализ приведен в файле WGBS_analysis.pdf
+*Дальнейший анализ приведен в файле 
+![WGBS_analysis.pdf](https://github.com/Natali17/omics/blob/9bf8dd8eac6296afcf7287647bcd779b05ce2fab/WGBS_analysis.pdf)
 
 
