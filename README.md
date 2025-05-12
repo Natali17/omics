@@ -55,9 +55,6 @@
 ## Analysis Pipeline
 ![Pipeline](img/pipeline.png)
 
-## Differential Methylation Regions (DMRs) Analysis
-![DMRs](img/differential_analysis.png)
-
 *Дальнейший анализ приведен в файле WGBS_analysis.pdf
 
 
